@@ -9,6 +9,7 @@ Objectives
 - Employee Productivity: Evaluate employee performance based on sales generated and tasks completed to identify high performers and areas for improvement.
 
 Database Design
+
 The project utilizes a well-structured SQL database with the following key tables:
 - Products: Contains information about products including product ID, name, category, price, and stock quantity.
 - Sales: Records sales transactions with details such as sale ID, product ID, sale date, quantity sold, and total price.
