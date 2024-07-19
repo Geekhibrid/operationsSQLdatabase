@@ -1,4 +1,4 @@
-Project Summary: Company Operations Analytics Dashboard
+Project Summary: Company Operations Analytics
 
 Overview
 This project focuses on developing a comprehensive analytics dashboard to monitor and improve various aspects of company operations, specifically targeting sales performance, inventory management, and employee productivity. The project demonstrates proficiency in SQL for data management and analysis, as well as the ability to visualize data for actionable insights.
